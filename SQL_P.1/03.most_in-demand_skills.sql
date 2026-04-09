@@ -1,3 +1,4 @@
+-- SQLBook: Code
 --What most in-demand skills for Data Analyst
 
 SELECT
@@ -13,4 +14,4 @@ job_no_degree_mention = true
 GROUP BY 
 skills
 ORDER BY demand_count DESC
-LIMIT 5
+LIMIT 7

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 🚀 Introduction
 
 Data is the key to smarter career decisions. This project explores real job market data to uncover 💰 salary trends and 🔥 in-demand skills in data analyst roles.
@@ -93,3 +94,4 @@ LIMIT 7
 High salaries are linked to advanced and specialized skills
 Demand is strongest for analytical + technical skill combinations
 Understanding market data helps you focus on what truly matters.
+=======
